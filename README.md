@@ -31,4 +31,5 @@ The Power BI dashboard provides visual insights into various call center metrics
 - Analysis of customer satisfaction scores, with a focus on trends and correlations with agent performance and resolution rates.
 
 ### Dashboard Screenshot:
-([Call Center Information.jpg](https://github.com/ramsifavaskp/POWER-BI/blob/main/Call%20Center%20Information.jpg))
+![1723541370981](https://github.com/user-attachments/assets/5eeef182-4f42-45f6-a090-b468d0ecd4b1)
+
